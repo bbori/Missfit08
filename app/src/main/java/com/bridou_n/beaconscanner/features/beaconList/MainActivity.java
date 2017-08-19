@@ -450,7 +450,8 @@ public class MainActivity extends AppCompatActivity implements BeaconConsumer, E
             count=0;
         });
     }
-
+ ////sdfjksjkdlfjldf
+    ///check if this works
     private void bluetoothStateChanged(int state) {
         bluetoothState.setVisibility(View.VISIBLE);
         switch (state) {
